@@ -1,0 +1,7 @@
+com\lab6\app\bean\Dueno.class
+com\lab6\app\bean\Veterinario.class
+com\lab6\app\dao\MascotaDAO.class
+com\lab6\app\servlet\VetServlet.class
+com\lab6\app\bean\Especie.class
+com\lab6\app\bean\Mascota.class
+com\lab6\app\dao\BaseDAO.class
